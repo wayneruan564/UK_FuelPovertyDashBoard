@@ -1,0 +1,64 @@
+body {
+    	font-style:courier;
+    background-color:rgb(235, 237, 239)
+}
+
+.info-container {
+	color:black;
+
+}
+
+#drop-down, .info-header  {
+	color: black;
+	font-size:15px;
+}
+
+
+#title {
+    font-size: 30px;
+    color:black;
+    font-weight: bold;
+    margin-bottom:10px;
+}
+
+.block-title {
+    color:black;
+    font-weight:500;
+    font-size:15px;
+    text-align:center;
+    margin-top:25px;
+}
+
+
+.graph {
+	border: 1px solid gray;
+}
+
+.section {
+    background-color:white;
+    margin-top:15px;
+    margin-right:10px;
+    font-weight:100;
+}
+
+#region-name-1, #fuelpoverty-gap-1, #unemployment-rate-1, #weekly-wage-1,
+#region-name-2, #fuelpoverty-gap-2, #unemployment-rate-2, #weekly-wage-2{
+    font-weight:500;
+}
+
+
+#info-section {
+	margin-top:10px;
+}
+
+#drop-down-1{
+    margin-bottom:5px;
+}
+
+
+#footer {
+    text-align:center;
+    margin-top:5px;
+    font-size:10px;
+    opacity:50%;
+}
